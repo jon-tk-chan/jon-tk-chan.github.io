@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Edited blog post - placeholder
+title: Edited blog post placeholder
 ---
 
 Placeholder content modified.
